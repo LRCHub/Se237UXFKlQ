@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Around the World (La La La La La)",
+  "base_artist": "A Touch Of Class",
+  "createdAt": "2026-02-19T05:59:00.206643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Around The World (La La La La La)",
+      "artist": "Atc",
+      "has_synced": true,
+      "path": "select/01_Around_The_World_(La_La_La_La_La)_Atc.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Around the World (La La La La La)",
+      "artist": "ATouchOfClass",
+      "has_synced": true,
+      "path": "select/02_Around_the_World_(La_La_La_La_La)_ATouchOfClass.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Around the World (La la la la La)",
+      "artist": "ATC",
+      "has_synced": false,
+      "path": "select/03_Around_the_World_(La_la_la_la_La)_ATC.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Around the World (La La La La La)",
+      "artist": "ATC",
+      "has_synced": true,
+      "path": "select/04_Around_the_World_(La_La_La_La_La)_ATC.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Around the World (La La La La La)",
+      "artist": "ATC",
+      "has_synced": true,
+      "path": "select/05_Around_the_World_(La_La_La_La_La)_ATC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Around the World (La La La La La)",
+      "artist": "Jason Parker",
+      "has_synced": false,
+      "path": "select/06_Around_the_World_(La_La_La_La_La)_Jason_Parker.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Around the World (La La La La La La)",
+      "artist": "ATC",
+      "has_synced": false,
+      "path": "select/07_Around_the_World_(La_La_La_La_La_La)_ATC.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Around the World (La La La La La)",
+      "artist": "ATC",
+      "has_synced": true,
+      "path": "select/08_Around_the_World_(La_La_La_La_La)_ATC.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All Around The World (La La La La La)",
+      "artist": "Bassjackers - Topic",
+      "has_synced": false,
+      "path": "select/09_All_Around_The_World_(La_La_La_La_La)_Bassjackers_-_Topic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Around the World (La La La La La) [Radio Version]",
+      "artist": "A Touch of Class",
+      "has_synced": false,
+      "path": "select/pl_01_Around_the_World_(La_La_La_La_La)_[Radio_Version]_A_Touch_of_Class.txt"
+    }
+  ]
+}
