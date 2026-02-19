@@ -1,0 +1,71 @@
+# A Touch Of Class – Around the World (La La La La La)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.32] The kisses of the sun
+[00:09.99] Were sweet, I didn't blink
+[00:11.63] I let it in my eyes
+[00:13.25] Like an exotic drink
+[00:14.64] The radio playing songs
+[00:16.78] That I have never heard
+[00:18.23] I don't know what to say
+[00:20.22] Oh, not another word, just
+[00:33.22] 
+[00:21.64] La la la la la, it goes around the world, just
+[00:25.30] La la la la la, it's all around the world, just
+[00:29.28] La la la la la, and everybody's singin'
+[00:32.87] La la la la la, and now the bells are ringin'
+[00:55.37] 
+[00:36.32] La la la la la la la la la la la la
+[00:41.93] La la la la la la la la la la la la
+[00:45.72] La la la la la la la la la la la la
+[00:49.31] La la la la la la la la la la la la
+[01:06.81] 
+[01:05.69] Inside an empty room
+[01:07.61] My inspiration flows
+[01:09.73] Can't wait to hear the tune
+[01:11.37] Around my head it goes
+[01:13.15] The magic melody
+[01:14.72] You want to sing with me
+[01:16.33] Just la la la la la
+[01:18.48] The music is the key
+[01:28.48] 
+[01:20.09] And now the night is gone
+[01:21.90] Still it goes on and on
+[01:23.43] So deep inside of me
+[01:25.76] I long to set it free
+[01:27.36] I don't know what to do
+[01:29.39] Just can't explain to you
+[01:30.82] I don't know what to say
+[01:32.98] Oh, not another word, just
+[01:45.98] 
+[01:34.68] La la la la la, it goes around the world, just
+[01:38.26] La la la la la, it's all around the world, just
+[01:39.83] La la la la la, and everybody's singin'
+[01:47.73] La la la la la, and now the bells are ringin'
+[02:10.23] 
+[01:52.44] La la la la la la la la la la la la
+[01:54.87] La la la la la la la la la la la la
+[01:55.75] La la la la la la la la la la la la
+[01:56.89] La la la la la la la la la la la la
+[02:14.39] 
+[01:57.48] (The kisses of the sun)
+[01:58.13] Around, around, around, around
+[01:58.66] Around, around, around the world
+[02:14.66] 
+[01:59.10] La la la la la, it goes around the world, just
+[01:59.57] La la la la la, it's all around the world, just
+[02:00.18] La la la la la, and everybody's singin'
+[02:00.51] La la la la la, and now the bells are ringin'
+[02:23.01] 
+[02:00.97] La la la la la la la la la la la la
+[02:01.30] La la la la la la la la la la la la
+[02:01.75] La la la la la la la la la la la la
+[02:02.14] La la la la la la la la la la la la
+[02:19.64] 
+[02:02.55] La la la la la la la la la la la la
+[02:02.97] La la la la la la la la la la la la
+[02:03.67] La la la la la la la la la la la la
+[02:04.04] La la la la la la la la la la la la
+```
